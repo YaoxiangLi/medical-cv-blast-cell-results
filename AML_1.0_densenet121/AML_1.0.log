@@ -1,0 +1,1 @@
+[24-07-20 19:23:44-INFO] Namespace(bs=32, lr=0.001, epochs=200, num_workers=16, num_classes=15, train_type='densenet121', rank=8, vit='large_clip', subset=1.0, kfold='None')
