@@ -1,0 +1,1 @@
+[24-08-02 01:34:35-INFO] Namespace(bs=32, lr=0.001, epochs=200, num_workers=16, num_classes=15, train_type='resnext101', rank=8, vit='large_clip', subset=0.2, kfold='fold_2')
